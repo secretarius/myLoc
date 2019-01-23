@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Where am I?</title>
-	<script src = "myLoc.js"></script>
+	<script src = "myloc.js"></script>
 	<link rel="stylesheet" href="myLoc.css">
 </head>
 <body>
